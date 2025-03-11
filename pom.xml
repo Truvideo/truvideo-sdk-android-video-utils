@@ -7,4 +7,10 @@
     <groupId>com.truvideo.sdk.video.utils</groupId>
     <artifactId>ffmpeg</artifactId>
     <version>1.0.0</version>
+    <dependency>
+        <groupId>com.truvideo.sdk.video.utils</groupId>
+        <artifactId>smart-exception-java</artifactId>
+        <version>0.2.1</version>
+        <scope>compile</scope>
+    </dependency>
 </project>
